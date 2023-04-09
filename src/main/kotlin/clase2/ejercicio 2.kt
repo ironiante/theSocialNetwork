@@ -8,7 +8,7 @@ fun main (){
 // simplificar la escritura de expresiones condicionales // en las que se desea asignar un valor predeterminado
 // en caso de que una expresión sea nula.
    if (age != null && age <25 ) {
-       println(" $nombre , eres joven")
+       println(" $nombre ,eres joven")
    }else {
        println("$nombre , ya eres viejo para la fiesta")
    }
