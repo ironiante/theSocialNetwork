@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="funciones">
+    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="ejemplo funciones 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="9080000" />
+      <workItem from="1681056474571" duration="12363000" />
     </task>
     <task id="LOCAL-00001" summary="clase 2">
       <created>1681057276399</created>
@@ -142,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681065338736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ejemplo funciones 2">
+      <created>1681066755430</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681066755430</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ejemplo funciones 2">
+      <created>1681066776859</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681066776859</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +179,7 @@
     <MESSAGE value="ejercicio 1 clase 3" />
     <MESSAGE value="ejercicio 1 clase 3 otra forma con elvis ternario" />
     <MESSAGE value="funciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="funciones" />
+    <MESSAGE value="ejemplo funciones 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo funciones 2" />
   </component>
 </project>
