@@ -15,6 +15,6 @@ fun main (){
 fun milkshake (fruit:String){  // batido , funcion.
     println("starting a milkshake ")
     println("_________________________")
-    println("the milkshake of $fruit is done")
+    println("the milkshake of $fruit is  done")
 
 }

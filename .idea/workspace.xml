@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="ejercicio 1 clase 3 otra forma con elvis ternario">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/clase2/ejercicio 2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/ejercicio 2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/suma de dos numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.EjercicioKt">
+  <component name="RunManager" selected="Kotlin.When_function_if_else_cyclesKt">
     <configuration name="Clase3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clase2.Clase3Kt" />
       <module name="theSocialNetwork" />
@@ -66,8 +68,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Suma_de_dos_numerosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase4.Suma_de_dos_numerosKt" />
+      <module name="theSocialNetwork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="When_function_if_else_cyclesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase4.When_function_if_else_cyclesKt" />
+      <module name="theSocialNetwork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.When_function_if_else_cyclesKt" />
+        <item itemvalue="Kotlin.Suma_de_dos_numerosKt" />
         <item itemvalue="Kotlin.EjercicioKt" />
         <item itemvalue="Kotlin.Clase3Kt" />
         <item itemvalue="Kotlin.Helllo_worldKt" />
@@ -82,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="6215000" />
+      <workItem from="1681056474571" duration="8260000" />
     </task>
     <task id="LOCAL-00001" summary="clase 2">
       <created>1681057276399</created>
@@ -105,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681063091675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ejercicio 1 clase 3 otra forma con elvis ternario">
+      <created>1681063148025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681063148025</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
