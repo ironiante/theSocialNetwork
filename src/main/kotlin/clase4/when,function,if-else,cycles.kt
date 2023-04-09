@@ -9,12 +9,18 @@ fun main (){
       */
  // vamos a llamar la fruta
     milkshake("banana")
-    milkshake("strawberry")
-    milkshake("kiwi")
+    sandwich("chiken")
+
 }
 fun milkshake (fruit:String){  // batido , funcion.
     println("starting a milkshake ")
-    println("_________________________")
     println("the milkshake of $fruit is  done")
+    println("_________________________")
+
+}
+fun sandwich(protein:String){
+    println("starting a sandwich ")
+    println("the milkshake of $protein is  done")
+    println("_________________________")
 
 }

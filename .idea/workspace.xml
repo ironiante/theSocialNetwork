@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="ejercicio 1 clase 3 otra forma con elvis ternario">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/suma de dos numeros.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="funciones">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="8260000" />
+      <workItem from="1681056474571" duration="9080000" />
     </task>
     <task id="LOCAL-00001" summary="clase 2">
       <created>1681057276399</created>
@@ -130,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681063148025</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="funciones">
+      <created>1681065298250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681065298250</updated>
+    </task>
+    <task id="LOCAL-00006" summary="funciones">
+      <created>1681065338736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681065338736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +163,7 @@
     <MESSAGE value="clase 2" />
     <MESSAGE value="ejercicio 1 clase 3" />
     <MESSAGE value="ejercicio 1 clase 3 otra forma con elvis ternario" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1 clase 3 otra forma con elvis ternario" />
+    <MESSAGE value="funciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="funciones" />
   </component>
 </project>
