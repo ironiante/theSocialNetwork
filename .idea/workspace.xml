@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="clase 2">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/clase3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/ejercicio.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="ejercicio 1 clase 3">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/ejercicio 2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="4900000" />
+      <workItem from="1681056474571" duration="5899000" />
     </task>
     <task id="LOCAL-00001" summary="clase 2">
       <created>1681057276399</created>
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681057276399</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ejercicio 1 clase 3">
+      <created>1681061988173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681061988173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clase 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="clase 2" />
+    <MESSAGE value="ejercicio 1 clase 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1 clase 3" />
   </component>
 </project>
