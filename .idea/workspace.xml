@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase1/helllo world.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="clase 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/clase3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase2/ejercicio.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +46,21 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.EjercicioKt">
+    <configuration name="Clase3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase2.Clase3Kt" />
+      <module name="theSocialNetwork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase2.EjercicioKt" />
+      <module name="theSocialNetwork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Helllo_worldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clase1.Helllo_worldKt" />
       <module name="theSocialNetwork" />
@@ -59,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EjercicioKt" />
+        <item itemvalue="Kotlin.Clase3Kt" />
         <item itemvalue="Kotlin.Helllo_worldKt" />
       </list>
     </recent_temporary>
@@ -71,8 +84,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="773000" />
+      <workItem from="1681056474571" duration="4900000" />
     </task>
+    <task id="LOCAL-00001" summary="clase 2">
+      <created>1681057276399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681057276399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clase 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase 2" />
   </component>
 </project>
