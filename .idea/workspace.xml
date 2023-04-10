@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd4ba432-5fa9-432d-ab7a-e760eeff7d1f" name="Changes" comment="ejemplo funciones 2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase5poo/Dataclass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clase4/when,function,if-else,cycles.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.When_function_if_else_cyclesKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.DataclassKt">
     <configuration name="Clase3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clase2.Clase3Kt" />
       <module name="theSocialNetwork" />
@@ -53,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjercicioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2.EjercicioKt" />
+    <configuration name="DataclassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase5poo.DataclassKt" />
       <module name="theSocialNetwork" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Helllo_worldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.Helllo_worldKt" />
+    <configuration name="EjercicioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase2.EjercicioKt" />
       <module name="theSocialNetwork" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataclassKt" />
         <item itemvalue="Kotlin.When_function_if_else_cyclesKt" />
         <item itemvalue="Kotlin.Suma_de_dos_numerosKt" />
         <item itemvalue="Kotlin.EjercicioKt" />
         <item itemvalue="Kotlin.Clase3Kt" />
-        <item itemvalue="Kotlin.Helllo_worldKt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +99,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681056471883</updated>
-      <workItem from="1681056474571" duration="12363000" />
+      <workItem from="1681056474571" duration="12405000" />
+      <workItem from="1681079608749" duration="4920000" />
     </task>
     <task id="LOCAL-00001" summary="clase 2">
       <created>1681057276399</created>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681066776859</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ejemplo funciones 2">
+      <created>1681070031842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681070031842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
